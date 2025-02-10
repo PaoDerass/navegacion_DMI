@@ -1,0 +1,1 @@
+{"name":"Lista_Tareas","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"@react-navigation/bottom-tabs":"^7.2.0","@react-navigation/native":"^7.0.14","react-native":"0.77.0","react-native-safe-area-context":"^5.2.0","react-native-screens":"^4.6.0"}}
