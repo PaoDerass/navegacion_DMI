@@ -29,12 +29,12 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#E1D0F6', // Color lila
+    backgroundColor: '#E1D0F6', 
   },
   titulo: {
     fontSize: 24,
     marginBottom: 10,
-    color: '#7A5BA3', // Color lila
+    color: '#7A5BA3', 
   },
 });
 
